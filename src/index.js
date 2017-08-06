@@ -45,7 +45,7 @@ var languageString = {
     "en-US": {
         "translation": {
             "QUESTIONS" : questions["QUESTIONS_EN_US"],
-            "GAME_NAME" : "Anime Quizia" // Be sure to change this for your skill.
+            "GAME_NAME" : "Anime Quiz Time" // Be sure to change this for your skill.
         }
     }
 };
